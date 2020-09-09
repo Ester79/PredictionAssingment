@@ -6,6 +6,12 @@ library(ggplot2)
 library(reshape2)
 library(gridExtra)
 library(dplyr)
+library(corrplot)
+library(rpart)
+library(rpart.plot)
+library(rattle)
+library(randomForest)
+
 
 # Load and read the data
 
